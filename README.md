@@ -47,7 +47,7 @@ design      Figma · Blender · Adobe Illustrator/Photoshop/Premiere
 <sub>The newest work lives in private repos — a family of Chrome extensions is headed for public releases.</sub>
 
 <!--fortune-->
-<img src="assets/fortune.svg" alt="fortune: Programming is not about typing, it's about thinking. — Rich Hickey" width="100%">
+<img src="assets/fortune.svg" alt="fortune: Programming isn't about what you know; it's about what you can figure out. — Chris Pine" width="100%">
 <!--/fortune-->
 
 Open to collaborating — especially on web platforms, developer tooling, and design-heavy frontends. Reach me through [**zingico.com**](https://zingico.com), where the full experience lives.
